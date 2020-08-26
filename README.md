@@ -1,0 +1,2 @@
+# Artificial-Neural-Netwoks-and-K-Nearest-Neighbors
+This project is about the implementation of two learning algorithms namely, 1)Artificial neural networks (ANN) 2)K Nearest Neighbors on SGEMM GPU kernel performance Data Set.s. The ANN algorithms is performed with the help of Keras library and TensorFlow. The KNN algorithm is performed with the help of Sckitlearn library in Python language on Jupyter notebook.
